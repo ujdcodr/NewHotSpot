@@ -7,7 +7,7 @@
 
 ## Usage
 
-1. Use any of the .py files to generate the floorplan files(.flp) for any topology. Paramters concerning the number of cores per layer and number of layers can be edited within the script. A corresponding power trace (.ptrace) file will also be generated. \
+1. Use any of the .py files to generate the floorplan files(.flp) for any topology. Parameters concerning the number of cores per layer and number of layers can be edited within the script. A corresponding power trace (.ptrace) file will also be generated. \
 Note: To view a generated floorplan after running any .py script \
 ./tofig.pl <floorplan filename>.flp  | fig2dev -L ps | ps2pdf - <output filename>.pdf
 
