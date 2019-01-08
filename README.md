@@ -21,8 +21,12 @@ Thermal interface layer 1 \
 Silicon layer n \
 Thermal Interface Material (Heat Sink)
 
-3. To run the Hotspot Simulation \ 
-./hotspot -c hotspot.config -f <any .flp filename>.flp -p <generated ptrace filename>.ptrace -steady_file <min/max/avg/center>.steady -model_type grid -detailed_3D on -grid_layer_file <NoC layer configuration filename>.lcf -grid_map_mode <min/max/avg/center> -grid_steady_file <min/max/avg/center>.grid.steady \ 
+3. To run the Hotspot Simulation  
+
+
+./hotspot -c hotspot.config -f <any .flp filename>.flp -p <generated ptrace filename>.ptrace -steady_file <min/max/avg/center>.steady -model_type grid -detailed_3D on -grid_layer_file <NoC layer configuration filename>.lcf -grid_map_mode <min/max/avg/center> -grid_steady_file <min/max/avg/center>.grid.steady
+
+ 
 Note: Ensure min/max/avg/center remains consistent across all filenames inorder to avoid confusion during experimentation
 
 4. To generate graphs of router temperatures after completing the simulation, run the following: 
