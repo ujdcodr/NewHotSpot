@@ -43,6 +43,11 @@ In case you use this repository for your own research, kindly cite the following
 1. [Accurate Power and Latency Analysis of a Through-Silicon Via(TSV)](https://ieeexplore.ieee.org/document/8554639)
 2. [Thermal Aware Design for Through-Silicon Via (TSV) based 3D Network-on-Chip (NoC) Architectures](https://drive.google.com/file/d/1tZgL_-6pjEv_qYeS4k2Wiie2KGYZFd81/view)
 
+Also cite the following supporting articles:
+1. [Differentiating the roles of IR measurement and simulation for power and temperature-aware design](https://ieeexplore.ieee.org/document/4919633)
+2. [ORION 2.0: A fast and accurate NoC power and area model for early-stage design space exploration](https://ieeexplore.ieee.org/document/5090700)
+3. [SPEC CPU2000: measuring CPU performance in the New Millennium](https://ieeexplore.ieee.org/document/869367)
+
 ## Team
 1. [Ujjwal Pasupulety](https://www.linkedin.com/in/ujjwalpasupulety/) (Final Year Undergraduate, Dept. of Information Technology, NITK Surathkal)
 2. [Bheemappa Halavar](http://cse.nitk.ac.in/researchscholars/bheemappa-h-halavar) (Phd Scholar, Dept. of Computer Science and Engineering, NITK Surathkal)
