@@ -42,4 +42,8 @@ Caution: The output filename within routerplot.py and input filename within plot
 In case you use this repository for your own research, kindly cite the following articles from SPARK Lab, NITK Surathkal:
 1. [Accurate Power and Latency Analysis of a Through-Silicon Via(TSV)](https://ieeexplore.ieee.org/document/8554639)
 2. [Thermal Aware Design for Through-Silicon Via (TSV) based 3D Network-on-Chip (NoC) Architectures](https://drive.google.com/file/d/1tZgL_-6pjEv_qYeS4k2Wiie2KGYZFd81/view)
- 
+
+## Team
+1. Ujjwal Pasupulety (Final Year Undergraduate, Dept. of Information Technology, NITK Surathkal)
+2. Bheemappa Halavar (Phd Scholar, Dept. of Computer Science and Engineering, NITK Surathkal)
+3. Basavaraj Talawar (Assisstant Professor, Dept. of Computer Science and Engineering, NITK Surathkal)
