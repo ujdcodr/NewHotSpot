@@ -29,7 +29,7 @@ Thermal Interface Material (Heat Sink)
  
 Note: Ensure min/max/avg/center remains consistent across all filenames inorder to avoid confusion during experimentation
 
-4. To generate graphs of router temperatures after completing the simulation, run the following: 
+4. To generate graphs of router temperatures after completing the simulation, run the following in the exact specified order: 
     - python simplify.py
     - python routerplot.py
     - python plotstats.py \
