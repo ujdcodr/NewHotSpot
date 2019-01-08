@@ -44,6 +44,6 @@ In case you use this repository for your own research, kindly cite the following
 2. [Thermal Aware Design for Through-Silicon Via (TSV) based 3D Network-on-Chip (NoC) Architectures](https://drive.google.com/file/d/1tZgL_-6pjEv_qYeS4k2Wiie2KGYZFd81/view)
 
 ## Team
-1. Ujjwal Pasupulety (Final Year Undergraduate, Dept. of Information Technology, NITK Surathkal)
-2. Bheemappa Halavar (Phd Scholar, Dept. of Computer Science and Engineering, NITK Surathkal)
-3. Basavaraj Talawar (Assisstant Professor, Dept. of Computer Science and Engineering, NITK Surathkal)
+1. [Ujjwal Pasupulety](https://www.linkedin.com/in/ujjwalpasupulety/) (Final Year Undergraduate, Dept. of Information Technology, NITK Surathkal)
+2. [Bheemappa Halavar](http://cse.nitk.ac.in/researchscholars/bheemappa-h-halavar) (Phd Scholar, Dept. of Computer Science and Engineering, NITK Surathkal)
+3. [Basavaraj Talawar](http://bt.nitk.ac.in/index.html) (Assisstant Professor, Dept. of Computer Science and Engineering, NITK Surathkal)
