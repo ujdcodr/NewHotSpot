@@ -12,14 +12,14 @@ Note: To view a generated floorplan after running any .py script \
 ./tofig.pl <floorplan filename>.flp  | fig2dev -L ps | ps2pdf - <output filename>.pdf
 
 2. Edit any one of the layer configuration (NoC_x.lcf) files based on the number of layers generated from the python script as follows:\
-Silicon layer 0 \
-Thermal interface layer 0 \
-Silicon layer 1 \
-Thermal interface layer 1 \
+<Silicon layer 0>.flp \
+<Thermal interface layer 0>.flp \
+<Silicon layer 1>.flp \
+<Thermal interface layer 1>.flp \
 . \
 . \
-Silicon layer n \
-Thermal Interface Material (Heat Sink)
+<Silicon layer n>.flp \
+<Thermal Interface Material>.flp (Heat Sink)
 
 3. To run the Hotspot Simulation  
 
