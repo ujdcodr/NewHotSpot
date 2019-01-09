@@ -18,6 +18,7 @@ Silicon_layer_1.flp \
 Thermal_interface_layer_1.flp \
 . \
 . \
+Thermal_interface_layer_n-1.flp \
 Silicon_layer_n.flp \
 Thermal_Interface_Material.flp (Heat Sink)
 
@@ -27,7 +28,7 @@ Thermal_Interface_Material.flp (Heat Sink)
 ./hotspot -c hotspot.config -f <any .flp filename>.flp -p <generated ptrace filename>.ptrace -steady_file <min/max/avg/center>.steady -model_type grid -detailed_3D on -grid_layer_file <NoC layer configuration filename>.lcf -grid_map_mode <min/max/avg/center> -grid_steady_file <min/max/avg/center>.grid.steady
 
  
-Note: Ensure min/max/avg/center remains consistent across all filenames inorder to avoid confusion during experimentation
+Note: Ensure min/max/avg/center remains consistent across all filenames inorder to avoid confusion during experimentation. Also since detailed_3D is 'on', the argument passed under -f (floorplan file) does not matter as it will be overriden by the layer configuration file which contains the necessary floorplan files for the simulation.
 
 4. To generate graphs of router temperatures after completing the simulation, run the following in the exact specified order: 
     - python simplify.py
@@ -51,4 +52,4 @@ Also cite the following supporting articles:
 ## Team
 1. [Ujjwal Pasupulety](https://www.linkedin.com/in/ujjwalpasupulety/) (Final Year Undergraduate, Dept. of Information Technology, NITK Surathkal)
 2. [Bheemappa Halavar](http://cse.nitk.ac.in/researchscholars/bheemappa-h-halavar) (Phd Scholar, Dept. of Computer Science and Engineering, NITK Surathkal)
-3. [Basavaraj Talawar](http://bt.nitk.ac.in/index.html) (Assisstant Professor, Dept. of Computer Science and Engineering, NITK Surathkal)
+3. [Basavaraj Talawar](http://bt.nitk.ac.in/index.html) (Assistant Professor, Dept. of Computer Science and Engineering, NITK Surathkal)
